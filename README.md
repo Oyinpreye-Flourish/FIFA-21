@@ -75,7 +75,7 @@ My objective for the analysis was performance, age, salary, country and correlat
 - 
 Impact of age on Performance |  Average age
 :-------------------------:  | :--------------:
- ![](Aep_image.png)            ![](Av.image.png) 
+ ![](Aep_image.png)          |  ![](Av.image.png) 
  
 
 
@@ -84,7 +84,7 @@ each country, the distribution of players across different positions, and the pe
 
 Countries with most players | Skill level of players by country
 :-----------------------:   | :--------------------------------:
- ![](C_md.png)                 ![](C_sd.png)
+ ![](C_md.png)              |   ![](C_sd.png)
 
 
 - Correlation analysis: I used statistical techniques such as correlation analysis to identify relationships between different variables in the dataset. For example, I analyzed the relationship between player age and performance, players value and overall rating. This could help you identify factors that influence player performance or salary, and could inform player selection and team strategy.
